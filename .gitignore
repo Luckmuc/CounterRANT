@@ -1,0 +1,8 @@
+CounterRANT/Plugins/
+CounterRANT/DerivedDataCache/
+CounterRANT/Intermediate/
+CounterRANT/Saved/
+*exe
+*.dll
+CounterRANT/Binaries/
+CounterRANT/Build/
